@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Mehul Grover
 
-<!--
-**LuhemRevorg/LuhemRevorg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+3rd year Data Science (Statistics + CS) at the University of Waterloo with a minor in Combinatorics & Optimization.
 
-Here are some ideas to get you started:
+Currently a SWE intern at **BitGo** working on Rust backend services for digital asset infrastructure. Previously at **Shopify** on the Developer Experience team, building internal tooling adopted by 3,000+ developers during their monorepo migration.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+Systems programming, concurrency, performance engineering, probability, game theory, poker, chess.
+
+## Links
+
+[LinkedIn](https://www.linkedin.com/in/mehul-grover-b17132297) · m5grover@uwaterloo.ca

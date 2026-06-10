@@ -10,4 +10,4 @@ Systems programming, concurrency, performance engineering, probability, game the
 
 ## Links
 
-[LinkedIn](https://www.linkedin.com/in/mehul-grover-b17132297) · m5grover@uwaterloo.ca
+[LinkedIn](https://www.linkedin.com/in/mehul-grover-b17132297) · [Mail](m5grover@uwaterloo.ca)

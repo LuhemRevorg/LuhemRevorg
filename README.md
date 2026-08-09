@@ -6,7 +6,7 @@ Currently a SWE intern at **Stealth** working on Rust backend services for digit
 
 ## Interests
 
-Systems programming, concurrency, performance engineering, probability, game theory, poker, chess.
+Systems programming, concurrency, probability, game theory.
 
 ## Links
 

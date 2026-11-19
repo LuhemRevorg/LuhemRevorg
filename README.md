@@ -1,6 +1,6 @@
 # Hi, I'm Mehul Grover
 
-3rd year Data Science (Statistics + CS) at the University of Waterloo with a minor in Combinatorics & Optimization.
+4th year Data Science (Statistics + CS) at the University of Waterloo with a minor in Combinatorics & Optimization.
 
 Love Systems and solving problems
 
